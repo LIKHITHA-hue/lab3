@@ -1,0 +1,5 @@
+This repository is created to practice GitHub.
+
+Branch: feature1
+Author: Likitha
+Purpose: Learning branches and pull requests.
